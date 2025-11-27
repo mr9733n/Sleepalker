@@ -1,5 +1,7 @@
 # Sleepwalker 
 
+    A comedy stealth game about a sleepwalker who wakes up every night in absurd situations.
+
 ## Для инвесторов/паблишеров:
 ```text
 Sleepwalker — комедийный стелс о лунатике, который каждую ночь просыпается в абсурдных ситуациях.
