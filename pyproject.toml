@@ -1,0 +1,8 @@
+[project]
+name = "sleepalker"
+version = "0.0.1"
+description = "A comedy stealth film about a sleepwalker who wakes up every night in absurd situations."
+requires-python = ">=3.13"
+dependencies = [
+    "python-pptx>=1.0.2",
+]
